@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1098417062289",
+    "project_id": "screentime-a2b66",
+    "storage_bucket": "screentime-a2b66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098417062289:android:be111c6906c1e11281da30",
+        "android_client_info": {
+          "package_name": "com.example.screen_time"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098417062289-u3or5k5v8d9dd1ogdc3ij5spma4247b7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSi2NNiHB6hNFLqKJ5eCLwziUZLEBeQw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098417062289-u3or5k5v8d9dd1ogdc3ij5spma4247b7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
